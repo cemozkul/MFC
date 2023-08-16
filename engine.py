@@ -13,4 +13,4 @@ while True:
     elif first_input == 'X':
         break
     else:
-        print('lol')
+        print('Please Enter Valid command !')
