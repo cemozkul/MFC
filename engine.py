@@ -8,8 +8,10 @@ while True:
     first_input = type()
     if first_input == 'L':
         username, password = login()
+        break
     elif first_input == 'R':
         username, password = register_pt_1()
+        break
     elif first_input == 'X':
         break
     else:
