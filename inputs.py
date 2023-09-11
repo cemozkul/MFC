@@ -46,5 +46,9 @@ def register_pt_1():
     return username, password
 
 def register_pt_2():
-    
+    #ASK
+    #Birth
+    #Job
+    #Phone Number
+    #E-mail
     return
